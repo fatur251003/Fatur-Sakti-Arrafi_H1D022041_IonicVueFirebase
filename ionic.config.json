@@ -1,0 +1,7 @@
+{
+  "name": "pemob-10",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
