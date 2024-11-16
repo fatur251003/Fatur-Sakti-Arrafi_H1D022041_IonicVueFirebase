@@ -33,4 +33,7 @@ Setelah berhasil Login, maka kita akan diarahkan ke Halaman Home seperti berikut
 
 <h3>Keterangan:</h3> Pada Halaman Profil ini, terdapat informasi mengenai Nama dan alamat Email yang kita gunakan untuk Login, serta terdapat Avatar/Foto Profil kita<br>
 
+<h2>4. Log Out</h2>
+
+Ketika kita mengklik <b>"Log Out"</b>, maka kita akan diarahkan kembali ke Halaman Awal yaitu Halaman yang terdapat Button <b>"Sign In with Google"</b><br>
 
