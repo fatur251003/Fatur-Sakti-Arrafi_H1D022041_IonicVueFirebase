@@ -21,3 +21,8 @@ Setelah mengklik button <b>"Sign In with Google"</b>, maka akan muncul tampilan 
 
 Klik atau Masukkan alamat Email yang akan kita gunakan untuk Login<br>
 
+Setelah berhasil Login, maka kita akan diarahkan ke Halaman Home seperti berikut:
+
+![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/tampilanhome.png)<br>
+
+
