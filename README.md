@@ -12,3 +12,5 @@ Shift Baru: E<br>
 
 <h3>Keterangan:</h3> Halaman ini merupakan halaman yang akan pertama kali muncul ketika kita mengetikkan perintah ionic serve pada terminal VsCode. Pada Halaman ini, terdapat Button "Sign In with Google". Klik Button tersebut untuk melakukan login menggunakan akun Google<br>
 
+Setelah mengklik button <b>"Sign In with Google</b>, maka akan muncul tampilan seperti berikut:
+
