@@ -27,4 +27,8 @@ Setelah berhasil Login, maka kita akan diarahkan ke Halaman Home seperti berikut
 
 ![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/tampilanhome.png)<br>
 
+<h2>3. Halaman Profil</h2>
+
+![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/profilepage.png)<br>
+
 
