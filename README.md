@@ -31,4 +31,6 @@ Setelah berhasil Login, maka kita akan diarahkan ke Halaman Home seperti berikut
 
 ![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/profilepage.png)<br>
 
+<h3>Keterangan:</h3> Pada Halaman Profil ini, terdapat informasi mengenai Nama dan alamat Email yang kita gunakan untuk Login, serta terdapat Avatar/Foto Profil kita<br>
+
 
