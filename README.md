@@ -14,6 +14,7 @@ Shift Baru: E<br>
 <br>
 <br>
 Setelah mengklik button <b>"Sign In with Google</b>, maka akan muncul tampilan seperti berikut:<br>
+<br>
 
 ![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/email1.png)
 
