@@ -1,4 +1,4 @@
-Nama      : Fatur Sakti Arrafi
-NIM       : H1D022041
-Shift KRS : A
-Shift Baru: E
+Nama      : Fatur Sakti Arrafi<br>
+NIM       : H1D022041<br>
+Shift KRS : A<br>
+Shift Baru: E<br>
