@@ -5,3 +5,5 @@ Shift Baru: E<br>
 
 
 <h1>Tugas Pertemuan 10 - Ionic 8 (With Vue + Firebase) Bagian 1</h1>
+
+![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/tampilanawal.png)
