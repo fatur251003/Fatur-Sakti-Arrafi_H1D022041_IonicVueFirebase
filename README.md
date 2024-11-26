@@ -51,3 +51,16 @@ Ketika kita mengklik <b>"Log Out"</b>, maka kita akan diarahkan kembali ke Halam
 
 <h3>Keterangan:</h3> Halaman ini berfungsi untuk menambahkan kegiatan Todo dengan mengisi kolom Title dan Description, kemudian klik button <b>"Add Todo"</b> untuk menambahkan<br>
 
+<h2>3. Tampilan Halaman Home setelah ditambahkan kegiatan</h2>
+
+![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/home_after_edit.png)
+
+<h3>Keterangan:</h3> Halaman ini menampilkan tampilan Home yang sudah diedit (sudah ditambahkan Kegiatan Todo) <br>
+
+<h2>3. Tampilan Halaman Profile Page</h2>
+
+![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/profile_page.png)
+
+<h3>Keterangan:</h3> Halaman ini menampilkan halaman profile yang terdiri dari Nama, Email, dan Foto Profile. Kita dapat menambahkan/mengubah foto profile dengan cara klik Button <b>"Upload Photo</b> <br>
+
+
