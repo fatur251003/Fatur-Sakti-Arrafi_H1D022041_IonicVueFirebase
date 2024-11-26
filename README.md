@@ -40,3 +40,5 @@ Ketika kita mengklik <b>"Log Out"</b>, maka kita akan diarahkan kembali ke Halam
 <h1>Tugas Pertemuan 11 - Ionic 8 (With Vue + Firebase) Bagian 2</h1>
 
 <h2>1. Tampilan Home</h2>
+
+![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/home.png)
