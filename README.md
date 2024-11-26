@@ -44,3 +44,7 @@ Ketika kita mengklik <b>"Log Out"</b>, maka kita akan diarahkan kembali ke Halam
 ![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/home.png)
 
 <h3>Keterangan:</h3> Halaman ini merupakan halaman yang menampilan bagian Active Todos (Kegiatan aktif yang belum selesai) dan Completed Todos (Kegiatan yang sudah selesai), dan terdapat button untuk menambahkan kegiatan todos yang terletak di pojok kanan bawah<br>
+
+<h2>1. Tampilan Halaman Add Todo</h2>
+
+![alt text](https://github.com/fatur251003/Fatur-Sakti-Arrafi_H1D022041_IonicVueFirebase/blob/main/images/add_todo.png)
