@@ -38,3 +38,5 @@ Setelah berhasil Login, maka kita akan diarahkan ke Halaman Home seperti berikut
 Ketika kita mengklik <b>"Log Out"</b>, maka kita akan diarahkan kembali ke Halaman Awal yaitu Halaman yang terdapat Button <b>"Sign In with Google"</b><br>
 
 <h1>Tugas Pertemuan 11 - Ionic 8 (With Vue + Firebase) Bagian 2</h1>
+
+<h2>1. Tampilan Home</h2>
